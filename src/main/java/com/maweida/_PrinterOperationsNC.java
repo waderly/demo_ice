@@ -18,9 +18,9 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
-public interface _PrinterOperations
+public interface _PrinterOperationsNC
 {
-    void printString(String s, Ice.Current __current);
+    void printString(String s);
 }

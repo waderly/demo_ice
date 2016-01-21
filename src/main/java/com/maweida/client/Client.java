@@ -1,7 +1,7 @@
-package demo.client;
+package com.maweida.client;
 
-import demo.PrinterPrx;
-import demo.PrinterPrxHelper;
+import com.maweida.PrinterPrx;
+import com.maweida.PrinterPrxHelper;
 
 public class Client {
 	

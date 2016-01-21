@@ -18,8 +18,10 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
-public abstract class Callback_Printer_printString extends Ice.OnewayCallback
+public interface _PrinterDel extends Ice._ObjectDel
 {
+    void printString(String s, java.util.Map<String, String> __ctx, Ice.Instrumentation.InvocationObserver __obsv)
+        throws IceInternal.LocalExceptionWrapper;
 }

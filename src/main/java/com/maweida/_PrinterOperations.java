@@ -18,10 +18,9 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
-public interface _PrinterDel extends Ice._ObjectDel
+public interface _PrinterOperations
 {
-    void printString(String s, java.util.Map<String, String> __ctx, Ice.Instrumentation.InvocationObserver __obsv)
-        throws IceInternal.LocalExceptionWrapper;
+    void printString(String s, Ice.Current __current);
 }

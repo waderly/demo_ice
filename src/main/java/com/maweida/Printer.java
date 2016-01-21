@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
 public interface Printer extends Ice.Object,
                                  _PrinterOperations, _PrinterOperationsNC

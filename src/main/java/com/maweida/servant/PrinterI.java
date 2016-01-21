@@ -1,7 +1,8 @@
-package demo.servant;
+package com.maweida.servant;
+
+import com.maweida._PrinterDisp;
 
 import Ice.Current;
-import demo._PrinterDisp;
 
 public class PrinterI extends _PrinterDisp{
 

@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
 public final class _PrinterDelM extends Ice._ObjectDelM implements _PrinterDel
 {

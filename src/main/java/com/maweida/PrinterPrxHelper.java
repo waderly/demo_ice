@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
 public final class PrinterPrxHelper extends Ice.ObjectPrxHelperBase implements PrinterPrx
 {

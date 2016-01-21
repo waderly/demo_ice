@@ -1,6 +1,6 @@
-package demo.server;
+package com.maweida.server;
 
-import demo.servant.PrinterI;
+import com.maweida.servant.PrinterI;
 
 public class Server {
 

@@ -18,20 +18,37 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
-public final class PrinterPrxHolder
+public final class PrinterHolder extends Ice.ObjectHolderBase<Printer>
 {
     public
-    PrinterPrxHolder()
+    PrinterHolder()
     {
     }
 
     public
-    PrinterPrxHolder(PrinterPrx value)
+    PrinterHolder(Printer value)
     {
         this.value = value;
     }
 
-    public PrinterPrx value;
+    public void
+    patch(Ice.Object v)
+    {
+        if(v == null || v instanceof Printer)
+        {
+            value = (Printer)v;
+        }
+        else
+        {
+            IceInternal.Ex.throwUOE(type(), v);
+        }
+    }
+
+    public String
+    type()
+    {
+        return _PrinterDisp.ice_staticId();
+    }
 }

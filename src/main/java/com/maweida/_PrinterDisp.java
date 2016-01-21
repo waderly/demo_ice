@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
 public abstract class _PrinterDisp extends Ice.ObjectImpl implements Printer
 {

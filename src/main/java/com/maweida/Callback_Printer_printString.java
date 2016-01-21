@@ -18,9 +18,8 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
-public interface _PrinterOperationsNC
+public abstract class Callback_Printer_printString extends Ice.OnewayCallback
 {
-    void printString(String s);
 }

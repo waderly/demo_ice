@@ -1,4 +1,4 @@
-package demo.servant;
+package com.maweida.servant;
 
 import java.io.IOException;
 import java.io.InputStream;

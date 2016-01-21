@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package demo;
+package com.maweida;
 
 public interface PrinterPrx extends Ice.ObjectPrx
 {
