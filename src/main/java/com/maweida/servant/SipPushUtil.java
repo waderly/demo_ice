@@ -26,7 +26,7 @@ public class SipPushUtil {
 	private static final Logger LOG  = LoggerFactory.getLogger(SipPushUtil.class);
 	public static void main(String[] args){
 //		System.out.println(push("0", "990860100000000003", "{'msg_type':'MSG_UNLOCK_PHONE_REG'}"));
-		System.out.println(push("9999999", "9188", "{'description':{'value':'','strategyUrl':'/get_card_number','insertUrl':'','time':1452742216.0974929,'Action':'card_number','password':'','MD5':''},'title':'send'}"));
+		System.out.println(push("9999999", "999908600100500024", "{'description':{'value':'','strategyUrl':'/get_card_number','insertUrl':'','time':1452742216.0974929,'Action':'card_number','password':'','MD5':''},'title':'send'}"));
 	}
 
 	/**
