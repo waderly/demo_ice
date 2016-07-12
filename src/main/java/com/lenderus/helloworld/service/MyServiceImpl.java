@@ -1,4 +1,4 @@
-package com.lenderus.service;
+package com.lenderus.helloworld.service;
 
 import com.hqu.animal.Student;
 import com.hqu.animal._EatDisp;

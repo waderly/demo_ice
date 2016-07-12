@@ -1,4 +1,4 @@
-package com.lenderus;
+package com.lenderus.helloworld;
 
 import java.io.IOException;
 import java.io.InputStream;

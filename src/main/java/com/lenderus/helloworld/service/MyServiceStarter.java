@@ -1,4 +1,4 @@
-package com.lenderus.service;
+package com.lenderus.helloworld.service;
 
 public class MyServiceStarter {
 	public static void main(String[] args) {

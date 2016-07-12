@@ -1,4 +1,4 @@
-package com.lenderus.client;
+package com.lenderus.helloworld.client;
 
 import com.hqu.animal.EatPrx;
 import com.hqu.animal.EatPrxHelper;
